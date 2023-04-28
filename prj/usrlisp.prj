@@ -1,0 +1,54 @@
+;;; VLisp project file [V2.0] usrlisp saved to:[C:/Dev/AutoLISP/src] at:[4/19/23] 
+(VLISP-PROJECT-LIST
+  :NAME
+  usrlisp
+  :OWN-LIST
+  ("C:/Dev/AutoLISP/src/usrlisp/Menteki_mkcomment"
+    "C:/Dev/AutoLISP/src/usrlisp/addfvtx"
+    "C:/Dev/AutoLISP/src/usrlisp/Blk2ept"
+    "C:/Dev/AutoLISP/src/usrlisp/Blk2pt"
+    "C:/Dev/AutoLISP/src/usrlisp/blkins"
+    "C:/Dev/AutoLISP/src/usrlisp/Blktools"
+    "C:/Dev/AutoLISP/src/usrlisp/ChBlk"
+    "C:/Dev/AutoLISP/src/usrlisp/Chblkatt"
+    "C:/Dev/AutoLISP/src/usrlisp/chconlay"
+    "C:/Dev/AutoLISP/src/usrlisp/Chlaycon"
+    "C:/Dev/AutoLISP/src/usrlisp/chlayhis"
+    "C:/Dev/AutoLISP/src/usrlisp/ChTxt"
+    "C:/Dev/AutoLISP/src/usrlisp/Cretic"
+    "C:/Dev/AutoLISP/src/usrlisp/DupDel"
+    "C:/Dev/AutoLISP/src/usrlisp/Dvdel"
+    "C:/Dev/AutoLISP/src/usrlisp/ExpAtBlk"
+    "C:/Dev/AutoLISP/src/usrlisp/inep"
+    "C:/Dev/AutoLISP/src/usrlisp/ins_yosatsu"
+    "C:/Dev/AutoLISP/src/usrlisp/Laylst"
+    "C:/Dev/AutoLISP/src/usrlisp/Lelst"
+    "C:/Dev/AutoLISP/src/usrlisp/Lsptools"
+    "C:/Dev/AutoLISP/src/usrlisp/LTOPL"
+    "C:/Dev/AutoLISP/src/usrlisp/lwtopl"
+    "C:/Dev/AutoLISP/src/usrlisp/MkMLst"
+    "C:/Dev/AutoLISP/src/usrlisp/PLLAY"
+    "C:/Dev/AutoLISP/src/usrlisp/Pt2Blk"
+    "C:/Dev/AutoLISP/src/usrlisp/Simain"
+    "C:/Dev/AutoLISP/src/usrlisp/Smooth"
+    "C:/Dev/AutoLISP/src/usrlisp/square"
+    "C:/Dev/AutoLISP/src/usrlisp/tky2jgd"
+    "C:/Dev/AutoLISP/src/usrlisp/trimex"
+    "C:/Dev/AutoLISP/src/usrlisp/wwt")
+  :FAS-DIRECTORY
+  "C:/Dev/AutoLISP/dist"
+  :TMP-DIRECTORY
+  "C:/Dev/AutoLISP/src/usrlisp/.temp"
+  :PROJECT-KEYS
+  (:BUILD (:OPTIMIZE :link)
+	  :MERGED
+	  T
+	  :SAFE-MODE
+	  T
+	  :MSGLEVEL
+	  1
+  )
+  :CONTEXT-ID
+  :AUTOLISP
+)
+;;; EOF

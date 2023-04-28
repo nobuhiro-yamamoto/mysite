@@ -1,0 +1,37 @@
+;;; VLisp project file [V2.0] vba saved to:[C:/Dev/AutoLISP/src] at:[8/17/21] 
+(VLISP-PROJECT-LIST
+  :NAME
+  vba
+  :OWN-LIST
+  ("C:/Dev/AutoLISP/src/vba/commanddialog"
+    "C:/Dev/AutoLISP/src/vba/dellayerobj"
+    "C:/Dev/AutoLISP/src/vba/drawvbaAnoString"
+    "C:/Dev/AutoLISP/src/vba/entsel1_edep"
+    "C:/Dev/AutoLISP/src/vba/ime"
+    "C:/Dev/AutoLISP/src/vba/insjikaku_lastenttxt"
+    "C:/Dev/AutoLISP/src/vba/j2xd"
+    "C:/Dev/AutoLISP/src/vba/mktxtlist"
+    "C:/Dev/AutoLISP/src/vba/osysvba"
+    "C:/Dev/AutoLISP/src/vba/plotp"
+    "C:/Dev/AutoLISP/src/vba/sssetfirst"
+    "C:/Dev/AutoLISP/src/vba/vba_mkep"
+    "C:/Dev/AutoLISP/src/vba/vba_oedep"
+    "C:/Dev/AutoLISP/src/vba/vba_symins"
+    "C:/Dev/AutoLISP/src/vba/vba_wmfout")
+  :FAS-DIRECTORY
+  "C:/Dev/AutoLISP/dist"
+  :TMP-DIRECTORY
+  "C:/Dev/AutoLISP/src/vba/.temp"
+  :PROJECT-KEYS
+  (:BUILD (:OPTIMIZE :link)
+	  :MERGED
+	  T
+	  :SAFE-MODE
+	  T
+	  :MSGLEVEL
+	  1
+  )
+  :CONTEXT-ID
+  :AUTOLISP
+)
+;;; EOF

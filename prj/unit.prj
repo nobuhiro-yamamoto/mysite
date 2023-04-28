@@ -1,0 +1,23 @@
+;;; VLisp project file [V2.0] unit saved to:[C:/Dev/AutoLISP/src] at:[11/28/22] 
+(VLISP-PROJECT-LIST
+  :NAME
+  unit
+  :OWN-LIST
+  ("C:/Dev/AutoLISP/src/unit/init")
+  :FAS-DIRECTORY
+  "C:/Dev/AutoLISP/dist"
+  :TMP-DIRECTORY
+  "C:/Dev/AutoLISP/src/unit/.temp"
+  :PROJECT-KEYS
+  (:BUILD (:OPTIMIZE :link)
+	  :MERGED
+	  nil
+	  :SAFE-MODE
+	  T
+	  :MSGLEVEL
+	  1
+  )
+  :CONTEXT-ID
+  :AUTOLISP
+)
+;;; EOF

@@ -1,0 +1,29 @@
+;;; VLisp project file [V2.0] load saved to:[C:/Dev/AutoLISP/src] at:[11/28/22] 
+(VLISP-PROJECT-LIST
+  :NAME
+  load
+  :OWN-LIST
+  ("C:/Dev/AutoLISP/src/load/arx_commands"
+    "C:/Dev/AutoLISP/src/load/automkcommand"
+    "C:/Dev/AutoLISP/src/load/chgchrm"
+    "C:/Dev/AutoLISP/src/load/global_settings"
+    "C:/Dev/AutoLISP/src/load/load"
+    "C:/Dev/AutoLISP/src/load/osysini"
+    "C:/Dev/AutoLISP/src/load/pgp")
+  :FAS-DIRECTORY
+  "C:/Dev/AutoLISP/dist"
+  :TMP-DIRECTORY
+  "C:/Dev/AutoLISP/src/load/.temp"
+  :PROJECT-KEYS
+  (:BUILD (:OPTIMIZE :link)
+	  :MERGED
+	  T
+	  :SAFE-MODE
+	  T
+	  :MSGLEVEL
+	  1
+  )
+  :CONTEXT-ID
+  :AUTOLISP
+)
+;;; EOF

@@ -1,0 +1,25 @@
+;;; VLisp project file [V2.0] customization saved to:[C:/Dev/AutoLISP/src] at:[11/28/22] 
+(VLISP-PROJECT-LIST
+  :NAME
+  customization
+  :OWN-LIST
+  ("C:/Dev/AutoLISP/src/customization/R2_menteki"
+    "C:/Dev/AutoLISP/src/customization/R4_menteki"
+  )
+  :FAS-DIRECTORY
+  "C:/Dev/AutoLISP/dist"
+  :TMP-DIRECTORY
+  "C:/Dev/AutoLISP/src/customization/.temp"
+  :PROJECT-KEYS
+  (:BUILD (:OPTIMIZE :link)
+	  :MERGED
+	  T
+	  :SAFE-MODE
+	  T
+	  :MSGLEVEL
+	  1
+  )
+  :CONTEXT-ID
+  :AUTOLISP
+)
+;;; EOF

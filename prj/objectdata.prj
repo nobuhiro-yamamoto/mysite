@@ -1,0 +1,28 @@
+;;; VLisp project file [V2.0] objectdata saved to:[C:/Dev/AutoLISP/src] at:[11/25/21] 
+(VLISP-PROJECT-LIST
+  :NAME
+  objectdata
+  :OWN-LIST
+  ("C:/Dev/AutoLISP/src/objectdata/blk2pt"
+    "C:/Dev/AutoLISP/src/objectdata/objectdata"
+    "C:/Dev/AutoLISP/src/objectdata/oda"
+    "C:/Dev/AutoLISP/src/objectdata/txtinfo2od"
+    "C:/Dev/AutoLISP/src/objectdata/xd"
+    "C:/Dev/AutoLISP/src/objectdata/xrecord")
+  :FAS-DIRECTORY
+  "C:/Dev/AutoLISP/dist"
+  :TMP-DIRECTORY
+  "C:/Dev/AutoLISP/src/objectdata/.temp"
+  :PROJECT-KEYS
+  (:BUILD (:OPTIMIZE :link)
+	  :MERGED
+	  T
+	  :SAFE-MODE
+	  T
+	  :MSGLEVEL
+	  1
+  )
+  :CONTEXT-ID
+  :AUTOLISP
+)
+;;; EOF
