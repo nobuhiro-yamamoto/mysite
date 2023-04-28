@@ -1,15 +1,15 @@
-;;; VLisp project file [V2.0] customization saved to:[C:/Dev/AutoLISP/src] at:[11/28/22] 
+;;; VLisp project file [V2.0] customization saved to:[C:/Users/nobuhiro-yamamoto/Documents/GitHub/prj-fas/prj] at:[4/28/23] 
 (VLISP-PROJECT-LIST
   :NAME
   customization
   :OWN-LIST
-  ("C:/Dev/AutoLISP/src/customization/R2_menteki"
-    "C:/Dev/AutoLISP/src/customization/R4_menteki"
+  ("C:/Users/nobuhiro-yamamoto/Documents/GitHub/AutoLISP/src/customization/R2_menteki"
+    "C:/Users/nobuhiro-yamamoto/Documents/GitHub/AutoLISP/src/customization/R4_menteki"
   )
   :FAS-DIRECTORY
-  "C:/Dev/AutoLISP/dist"
+  "C:\\Users\\nobuhiro-yamamoto\\Documents\\GitHub\\prj-fas\\FAS"
   :TMP-DIRECTORY
-  "C:/Dev/AutoLISP/src/customization/.temp"
+  "C:\\Users\\nobuhiro-yamamoto\\Documents\\GitHub\\prj-fas\\FAS\\.temp"
   :PROJECT-KEYS
   (:BUILD (:OPTIMIZE :link)
 	  :MERGED

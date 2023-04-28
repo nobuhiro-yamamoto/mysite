@@ -1,18 +1,18 @@
-;;; VLisp project file [V2.0] objectdata saved to:[C:/Dev/AutoLISP/src] at:[11/25/21] 
+;;; VLisp project file [V2.0] objectdata saved to:[C:/Users/nobuhiro-yamamoto/Documents/GitHub/prj-fas/prj] at:[4/28/23] 
 (VLISP-PROJECT-LIST
   :NAME
   objectdata
   :OWN-LIST
-  ("C:/Dev/AutoLISP/src/objectdata/blk2pt"
-    "C:/Dev/AutoLISP/src/objectdata/objectdata"
-    "C:/Dev/AutoLISP/src/objectdata/oda"
-    "C:/Dev/AutoLISP/src/objectdata/txtinfo2od"
-    "C:/Dev/AutoLISP/src/objectdata/xd"
-    "C:/Dev/AutoLISP/src/objectdata/xrecord")
+  ("C:/Users/nobuhiro-yamamoto/Documents/GitHub/AutoLISP/src/objectdata/blk2pt"
+    "C:/Users/nobuhiro-yamamoto/Documents/GitHub/AutoLISP/src/objectdata/objectdata"
+    "C:/Users/nobuhiro-yamamoto/Documents/GitHub/AutoLISP/src/objectdata/oda"
+    "C:/Users/nobuhiro-yamamoto/Documents/GitHub/AutoLISP/src/objectdata/txtinfo2od"
+    "C:/Users/nobuhiro-yamamoto/Documents/GitHub/AutoLISP/src/objectdata/xd"
+    "C:/Users/nobuhiro-yamamoto/Documents/GitHub/AutoLISP/src/objectdata/xrecord")
   :FAS-DIRECTORY
-  "C:/Dev/AutoLISP/dist"
+  "C:\\Users\\nobuhiro-yamamoto\\Documents\\GitHub\\prj-fas\\FAS"
   :TMP-DIRECTORY
-  "C:/Dev/AutoLISP/src/objectdata/.temp"
+  "C:\\Users\\nobuhiro-yamamoto\\Documents\\GitHub\\prj-fas\\FAS\\.temp"
   :PROJECT-KEYS
   (:BUILD (:OPTIMIZE :link)
 	  :MERGED

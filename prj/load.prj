@@ -1,19 +1,19 @@
-;;; VLisp project file [V2.0] load saved to:[C:/Dev/AutoLISP/src] at:[11/28/22] 
+;;; VLisp project file [V2.0] load saved to:[C:/Users/nobuhiro-yamamoto/Documents/GitHub/prj-fas/prj] at:[4/28/23] 
 (VLISP-PROJECT-LIST
   :NAME
   load
   :OWN-LIST
-  ("C:/Dev/AutoLISP/src/load/arx_commands"
-    "C:/Dev/AutoLISP/src/load/automkcommand"
-    "C:/Dev/AutoLISP/src/load/chgchrm"
-    "C:/Dev/AutoLISP/src/load/global_settings"
-    "C:/Dev/AutoLISP/src/load/load"
-    "C:/Dev/AutoLISP/src/load/osysini"
-    "C:/Dev/AutoLISP/src/load/pgp")
+  ("C:/Users/nobuhiro-yamamoto/Documents/GitHub/AutoLISP/src/load/arx_commands"
+    "C:/Users/nobuhiro-yamamoto/Documents/GitHub/AutoLISP/src/load/automkcommand"
+    "C:/Users/nobuhiro-yamamoto/Documents/GitHub/AutoLISP/src/load/chgchrm"
+    "C:/Users/nobuhiro-yamamoto/Documents/GitHub/AutoLISP/src/load/global_settings"
+    "C:/Users/nobuhiro-yamamoto/Documents/GitHub/AutoLISP/src/load/load"
+    "C:/Users/nobuhiro-yamamoto/Documents/GitHub/AutoLISP/src/load/osysini"
+    "C:/Users/nobuhiro-yamamoto/Documents/GitHub/AutoLISP/src/load/pgp")
   :FAS-DIRECTORY
-  "C:/Dev/AutoLISP/dist"
+  "C:\\Users\\nobuhiro-yamamoto\\Documents\\GitHub\\prj-fas\\FAS"
   :TMP-DIRECTORY
-  "C:/Dev/AutoLISP/src/load/.temp"
+  "C:\\Users\\nobuhiro-yamamoto\\Documents\\GitHub\\prj-fas\\FAS\\.temp"
   :PROJECT-KEYS
   (:BUILD (:OPTIMIZE :link)
 	  :MERGED

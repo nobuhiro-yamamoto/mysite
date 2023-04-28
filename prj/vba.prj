@@ -1,27 +1,29 @@
-;;; VLisp project file [V2.0] vba saved to:[C:/Dev/AutoLISP/src] at:[8/17/21] 
+;;; VLisp project file [V2.0] vba saved to:[C:/Users/nobuhiro-yamamoto/Documents/GitHub/prj-fas/prj] at:[4/28/23] 
 (VLISP-PROJECT-LIST
   :NAME
   vba
   :OWN-LIST
-  ("C:/Dev/AutoLISP/src/vba/commanddialog"
-    "C:/Dev/AutoLISP/src/vba/dellayerobj"
-    "C:/Dev/AutoLISP/src/vba/drawvbaAnoString"
-    "C:/Dev/AutoLISP/src/vba/entsel1_edep"
-    "C:/Dev/AutoLISP/src/vba/ime"
-    "C:/Dev/AutoLISP/src/vba/insjikaku_lastenttxt"
-    "C:/Dev/AutoLISP/src/vba/j2xd"
-    "C:/Dev/AutoLISP/src/vba/mktxtlist"
-    "C:/Dev/AutoLISP/src/vba/osysvba"
-    "C:/Dev/AutoLISP/src/vba/plotp"
-    "C:/Dev/AutoLISP/src/vba/sssetfirst"
-    "C:/Dev/AutoLISP/src/vba/vba_mkep"
-    "C:/Dev/AutoLISP/src/vba/vba_oedep"
-    "C:/Dev/AutoLISP/src/vba/vba_symins"
-    "C:/Dev/AutoLISP/src/vba/vba_wmfout")
+  ("C:/Users/nobuhiro-yamamoto/Documents/GitHub/AutoLISP/src/vba/commanddialog"
+    "C:/Users/nobuhiro-yamamoto/Documents/GitHub/AutoLISP/src/vba/dellayerobj"
+    "C:/Users/nobuhiro-yamamoto/Documents/GitHub/AutoLISP/src/vba/drawvbaAnoString"
+    "C:/Users/nobuhiro-yamamoto/Documents/GitHub/AutoLISP/src/vba/entsel1_edep"
+    "C:/Users/nobuhiro-yamamoto/Documents/GitHub/AutoLISP/src/vba/ime"
+    "C:/Users/nobuhiro-yamamoto/Documents/GitHub/AutoLISP/src/vba/insjikaku_lastenttxt"
+    "C:/Users/nobuhiro-yamamoto/Documents/GitHub/AutoLISP/src/vba/j2xd"
+    "C:/Users/nobuhiro-yamamoto/Documents/GitHub/AutoLISP/src/vba/Menteki_mkcomment"
+    "C:/Users/nobuhiro-yamamoto/Documents/GitHub/AutoLISP/src/vba/mktxtlist"
+    "C:/Users/nobuhiro-yamamoto/Documents/GitHub/AutoLISP/src/vba/MKYosatsu"
+    "C:/Users/nobuhiro-yamamoto/Documents/GitHub/AutoLISP/src/vba/osysvba"
+    "C:/Users/nobuhiro-yamamoto/Documents/GitHub/AutoLISP/src/vba/plotp"
+    "C:/Users/nobuhiro-yamamoto/Documents/GitHub/AutoLISP/src/vba/sssetfirst"
+    "C:/Users/nobuhiro-yamamoto/Documents/GitHub/AutoLISP/src/vba/vba_mkep"
+    "C:/Users/nobuhiro-yamamoto/Documents/GitHub/AutoLISP/src/vba/vba_oedep"
+    "C:/Users/nobuhiro-yamamoto/Documents/GitHub/AutoLISP/src/vba/vba_symins"
+    "C:/Users/nobuhiro-yamamoto/Documents/GitHub/AutoLISP/src/vba/vba_wmfout")
   :FAS-DIRECTORY
-  "C:/Dev/AutoLISP/dist"
+  "C:\\Users\\nobuhiro-yamamoto\\Documents\\GitHub\\prj-fas\\FAS"
   :TMP-DIRECTORY
-  "C:/Dev/AutoLISP/src/vba/.temp"
+  "C:\\Users\\nobuhiro-yamamoto\\Documents\\GitHub\\prj-fas\\FAS\\.temp"
   :PROJECT-KEYS
   (:BUILD (:OPTIMIZE :link)
 	  :MERGED

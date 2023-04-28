@@ -1,13 +1,14 @@
-;;; VLisp project file [V2.0] unit saved to:[C:/Dev/AutoLISP/src] at:[11/28/22] 
+;;; VLisp project file [V2.0] unit saved to:[C:/Users/nobuhiro-yamamoto/Documents/GitHub/prj-fas/prj] at:[4/28/23] 
 (VLISP-PROJECT-LIST
   :NAME
   unit
   :OWN-LIST
-  ("C:/Dev/AutoLISP/src/unit/init")
+  ("C:/Users/nobuhiro-yamamoto/Documents/GitHub/AutoLISP/src/unit/init"
+  )
   :FAS-DIRECTORY
-  "C:/Dev/AutoLISP/dist"
+  "C:\\Users\\nobuhiro-yamamoto\\Documents\\GitHub\\prj-fas\\FAS"
   :TMP-DIRECTORY
-  "C:/Dev/AutoLISP/src/unit/.temp"
+  "C:\\Users\\nobuhiro-yamamoto\\Documents\\GitHub\\prj-fas\\FAS\\.temp"
   :PROJECT-KEYS
   (:BUILD (:OPTIMIZE :link)
 	  :MERGED
